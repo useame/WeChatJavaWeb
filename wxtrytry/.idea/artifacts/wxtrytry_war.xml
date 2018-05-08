@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="war" build-on-make="true" name="wxtrytry:war">
-    <output-path>$USER_HOME$/文档</output-path>
+    <output-path>$PROJECT_DIR$/out/artifacts/wxtrytry_war</output-path>
     <root id="archive" name="wxtrytry_war.war">
       <element id="artifact" artifact-name="wxtrytry:war exploded" />
       <element id="dir-copy" path="$PROJECT_DIR$/web" />
