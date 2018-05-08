@@ -15,11 +15,20 @@
       <file leaf-file-name="CoreServlet.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/wxtrytry/wechat/servlet/CoreServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1450">
-              <caret line="50" column="39" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
+            <state relative-caret-position="377">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="754">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -50,6 +59,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/CoreServlet.java" />
         <option value="$PROJECT_DIR$/src/com/wxtrytry/wechat/util/SignUtil.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/com/wxtrytry/wechat/servlet/CoreServlet.java" />
       </list>
     </option>
@@ -123,7 +133,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="/usr/local/apache-tomcat-9.0.8/lib/servlet-api.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaTest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -269,12 +279,12 @@
       <updated>1525611785229</updated>
       <workItem from="1525611797150" duration="5975000" />
       <workItem from="1525689611663" duration="5688000" />
-      <workItem from="1525757756791" duration="751000" />
+      <workItem from="1525757756791" duration="1300000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12414000" />
+    <option name="totallyTimeSpent" value="12963000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="1" width="1920" height="2159" extended-state="4" />
@@ -375,10 +385,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wxtrytry/wechat/servlet/CoreServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1450">
-          <caret line="50" column="39" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
+        <state relative-caret-position="377">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
